@@ -1,4 +1,4 @@
-<p align="ceneter">
+<p align="center">
   ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"/>
   <a href="https://github.com/mattburkester">
     <img src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
