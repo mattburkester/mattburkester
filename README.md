@@ -3,7 +3,7 @@
     <img width="494" height="194" src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
 </p>
 
-<p align="center">
+**<p align="center">
   <table>
     <tr>
       <td align="center">
@@ -26,7 +26,7 @@
       </td>
     </tr>
   </table>
-</p>
+</p>**
 
 
 <p align="center">
