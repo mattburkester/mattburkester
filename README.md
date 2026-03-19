@@ -3,6 +3,11 @@
     <img width="48%" src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
 </p>
 
+
+
+
+
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img 
@@ -16,8 +21,4 @@
       width="48%"
     />
   </a>
-</p>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
