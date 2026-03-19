@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://socialify.git.ci/mattburkester/mattburkester/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="mattburkester" width="700" height="300" />
+  <a href="https://github.com/mattburkester">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
 
