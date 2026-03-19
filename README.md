@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
 </p>
 
-  </ br>
+  </br>
 
 <p align="right">
   <a href="https://github.com/mattburkester">
