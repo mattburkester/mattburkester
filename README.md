@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Actions Status](https://github.com/mattburkester/mattburkester/workflows/wakatime-stats/badge.svg)](https://github.com/mattburkester/mattburkester/actions)
+
 <p align="center">
   
   <a href="https://git.io/streak-stats">
