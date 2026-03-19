@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Burke!
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Burke I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
