@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/mattburkester">
-    <img width="609" height="286.5" src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
+    <img width="712" height="334" src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
 </p>
 
 
