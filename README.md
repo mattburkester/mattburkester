@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=mattburkester&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak" />
   </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattburkester&show_icons=true&theme=tokyonight)
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=mattburkester&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak" />
+  </a>
