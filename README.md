@@ -1,12 +1,4 @@
-<p>
-  <a href="https://github.com/mattburkester">
-    <img src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png" align="right" />
-  </a>
-</p>
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8px" height="30px" />
-
-<p align="center">
+<p align="right">
   <a href="https://github.com/mattburkester">
     <img src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
 </p>
