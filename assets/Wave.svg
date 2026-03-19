@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 7.133 115 17.867" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" width="115px" height="17.867px"><style>
+
+svg {
+  width:110vw;
+  position:fixed;
+  top:-5px;
+  transform: rotate(360deg);
+  overflow:visible;
+}
+
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  fill: #000;  
+}
+
+.wave:hover {
+  fill: #fff;
+}
+
+#wave2 {
+  animation-duration:6s;
+  animation-direction: reverse;
+  opacity: .9;
+}
+
+#wave3 {
+  animation-duration: 3s;
+  opacity:.6;
+}
+
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
+
+</style><defs><path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z"/><bx:export><bx:file format="svg"/></bx:export></defs><path id="wave2" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" class="wave"/><path id="wave3" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" transform="matrix(1, 0, 0, 1, 0, -2)" class="wave"/></svg>
