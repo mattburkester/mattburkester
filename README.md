@@ -2,6 +2,8 @@
   <img src="https://socialify.git.ci/mattburkester/mattburkester/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="mattburkester" width="700" height="300" />
 </p>
 
+ <br />
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=mattburkester&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak" />
