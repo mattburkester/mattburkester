@@ -1,8 +1,7 @@
 <p align="right">
   <a href="https://github.com/mattburkester">
-    <img src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
-</p>#  
-
+    <img width=128 src="https://raw.githubusercontent.com/mattburkester/mattburkester/refs/heads/main/assets/MB_Logo.png"></a>
+</p>  
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 
