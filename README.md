@@ -1,6 +1,3 @@
-## Hey there 👋, I'm [Burke!](https://github.com/mattburkester/)
-
-
 <p align="center">
   <img src="https://socialify.git.ci/mattburkester/mattburkester/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="mattburkester" width="700" height="300" />
 </p>
